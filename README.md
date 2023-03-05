@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Muhammad-Zacky&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Quotes of the day
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ---
