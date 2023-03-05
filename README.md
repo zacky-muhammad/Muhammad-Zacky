@@ -1,4 +1,4 @@
-<h3 align="center">Software Developer</h3>
+<marqueee align="center">Software Developer</marqueee>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadzacky&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadzacky" /> </p>
 
