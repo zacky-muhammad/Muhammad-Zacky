@@ -1,5 +1,5 @@
 # 💭 About Me:
-🖥️ I’m currently working on Console APP.<br>⚙️ I’m currently learning Desktop application development.<br>❔ Ask me about Console APP, Desktop APP.<br>📧 How to reach me <a href = "www.google.com">⁉️</a>[Click the emoji for more].<br>🧠 Developer of <a href = "https://www.instagram.com/inhabitant.os/">Inhabitant</a>.
+🖥️ I’m currently working on Console APP.<br>⚙️ I’m currently learning Desktop application development.<br>❔ Ask me about Console APP, Desktop APP.<br>📧 How to reach me <a href = "[www.google.com](https://media.giphy.com/media/8m4R4pvViWtRzbloJ1/giphy.gif)">⁉️</a>[Click the emoji for more].<br>🧠 Developer of <a href = "https://www.instagram.com/inhabitant.os/">Inhabitant</a>.
 
 
 ## 🌐 Socials:
